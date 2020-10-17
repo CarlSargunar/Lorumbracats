@@ -1,0 +1,15 @@
+{
+  "javascript": [
+    "~/App_Plugins/LorumbraCats/dashboard/dashboardService.js",
+    "~/App_Plugins/LorumbraCats/dashboard/dashboardController.js"
+  ],
+  "dashboards": [
+    {
+      "alias": "lorumbracats-dashboard",
+      "sections": [
+        "content"
+      ],
+      "view": "~/App_Plugins/LorumbraCats/dashboard/dashboard.html"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<language alias="en" intName="English (UK)" localName="English (UK)" lcid="" culture="en-GB">
+	<area alias="LorumbraCats">
+		<key alias="dashboardHeader">LorumbraCats super dashboard</key>
+		<key alias="dashboardDesc">My super awesome dashboard</key>
+	</area>
+	<area alias="dashboardTabs"> 
+		<key alias="lorumbracats-dashboard">LorumbraCats</key>
+	</area>
+
+</language>
