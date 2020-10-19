@@ -3,7 +3,7 @@
   <info>
     <package>
       <name>LorumbraCats</name>
-      <version>1.0.0</version>
+      <version>0.1.0</version>
       <iconUrl></iconUrl>
       <licence url="https://opensource.org/licenses/MIT">MIT</licence>
       <url>https://our.umbraco.com</url>
@@ -14,7 +14,7 @@
       </requirements>
     </package>
     <author>
-      <name>UmbracoPackageTeam</name>
+      <name>Carl Sargunar</name>
       <website>https://our.umbraco.com</website>
     </author>
     <readme><![CDATA[Another awesome package]]></readme>
